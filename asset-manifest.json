@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AdmyBrand-Taskk/static/css/main.e6c13ad2.css",
+    "main.js": "/AdmyBrand-Taskk/static/js/main.ca23f122.js",
+    "static/js/787.d93dff22.chunk.js": "/AdmyBrand-Taskk/static/js/787.d93dff22.chunk.js",
+    "index.html": "/AdmyBrand-Taskk/index.html",
+    "main.e6c13ad2.css.map": "/AdmyBrand-Taskk/static/css/main.e6c13ad2.css.map",
+    "main.ca23f122.js.map": "/AdmyBrand-Taskk/static/js/main.ca23f122.js.map",
+    "787.d93dff22.chunk.js.map": "/AdmyBrand-Taskk/static/js/787.d93dff22.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ca23f122.js"
+  ]
+}
